@@ -8,6 +8,6 @@ public class IndexController {
 
     @RequestMapping("/index")
     public String index(){
-        return "success::::分享专用";
+        return "success::::，，，，，，，，，，";
     }
 }
